@@ -1,0 +1,42 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 700px;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.4);
+  margin: 50px auto;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 16px;
+}
+
+.input-form {
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.input-form p {
+  width: 150px;
+}
+
+#form-2 {
+  height: 200px;
+  width: 400px;
+}
+
+#form-3 select {
+  width: 140px;
+}
+
+button {
+  padding: 2px 4px;
+}
