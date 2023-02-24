@@ -42,6 +42,10 @@
     right: -10px;
 }
 
+.list-1 li:last-child::after {
+    display: none;
+}
+
 .list-1,
 .list-2,
 .list-3,
